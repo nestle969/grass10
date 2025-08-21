@@ -1,0 +1,1 @@
+http://username:pass@ip:port // this is just example, u can remove it and replace with ur proxy
